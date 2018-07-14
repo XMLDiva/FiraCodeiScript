@@ -1,4 +1,4 @@
-# The New Fira Code iScript
+# The New Fira Code iScript 
 Fira Code iScript is a font hybrid with ligatures as well as a nice cursive style font for italics, allowing a distinct visual difference for keywords and comments (with appropriate style theme applied). I later also created a similar font hybrid with a more-readible script font that you can find [here](https://github.com/XMLDiva/FiraCodemScript).
 
 The regular and bold fonts (and where the ligatures are from) are from [Fira Code](https://github.com/tonsky/FiraCode); the italic is from [Script12](https://www.myfontsfree.com/134618/script12pitchbt.htm).
